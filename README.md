@@ -33,3 +33,9 @@
 ![Screen Shot 2017-03-06 at 10.26.08 PM](images/Screen Shot 2017-03-06 at 10.26.08 PM.png)
 
 ![Screen Shot 2017-03-06 at 10.26.11 PM](images/Screen Shot 2017-03-06 at 10.26.11 PM.png)
+
+### Dependency
+
+- Opencv
+- Keras-theano
+- Numpy
