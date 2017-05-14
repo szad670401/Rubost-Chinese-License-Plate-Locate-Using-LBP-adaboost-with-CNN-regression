@@ -34,7 +34,6 @@
 
 ![Screen Shot 2017-03-06 at 10.26.11 PM](images/16.png)
 
-![Screen Shot 2017-03-06 at 10.24.48 PM](images/Screen Shot 2017-03-06 at 10.24.48 PM.png)
 ### Dependency
 
 - Opencv
