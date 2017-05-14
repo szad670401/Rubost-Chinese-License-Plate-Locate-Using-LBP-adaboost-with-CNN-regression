@@ -37,15 +37,9 @@
 ### Dependency
 
 - Opencv
-<<<<<<< HEAD
 - Keras(theano-backend  " tf data order")
 - Numpy
 
 ### Anthor
 
 - Jack Yu
-
-=======
-- Keras-theano
-- Numpy
->>>>>>> fff2eddf76f8fae86dc6cc264fbf345c7bd20eff
