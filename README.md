@@ -2,41 +2,51 @@
 
 #### Result:
 
-![Screen Shot 2017-03-06 at 10.24.48 PM](images/Screen Shot 2017-03-06 at 10.24.48 PM.png)
+![Screen Shot 2017-03-06 at 10.24.48 PM](images/1.png)
 
-![Screen Shot 2017-03-06 at 10.25.00 PM](images/Screen Shot 2017-03-06 at 10.25.00 PM.png)
+![Screen Shot 2017-03-06 at 10.25.00 PM](images/2.png)
 
-![Screen Shot 2017-03-06 at 10.25.07 PM](images/Screen Shot 2017-03-06 at 10.25.07 PM.png)
+![Screen Shot 2017-03-06 at 10.25.07 PM](images/3.png)
 
-![Screen Shot 2017-03-06 at 10.25.10 PM](images/Screen Shot 2017-03-06 at 10.25.10 PM.png)
+![Screen Shot 2017-03-06 at 10.25.10 PM](images/4.png)
 
-![Screen Shot 2017-03-06 at 10.25.13 PM](images/Screen Shot 2017-03-06 at 10.25.13 PM.png)
+![Screen Shot 2017-03-06 at 10.25.13 PM](images/5.png)
 
-![Screen Shot 2017-03-06 at 10.25.18 PM](images/Screen Shot 2017-03-06 at 10.25.18 PM.png)
+![Screen Shot 2017-03-06 at 10.25.18 PM](images/6.png)
 
-![Screen Shot 2017-03-06 at 10.25.22 PM](images/Screen Shot 2017-03-06 at 10.25.22 PM.png)
+![Screen Shot 2017-03-06 at 10.25.22 PM](images/7.png)
 
-![Screen Shot 2017-03-06 at 10.25.26 PM](images/Screen Shot 2017-03-06 at 10.25.26 PM.png)
+![Screen Shot 2017-03-06 at 10.25.26 PM](images/8.png)
 
-![Screen Shot 2017-03-06 at 10.25.30 PM](images/Screen Shot 2017-03-06 at 10.25.30 PM.png)
+![Screen Shot 2017-03-06 at 10.25.30 PM](images/9.png)
 
-![Screen Shot 2017-03-06 at 10.25.37 PM](images/Screen Shot 2017-03-06 at 10.25.44 PM.png)
+![Screen Shot 2017-03-06 at 10.25.37 PM](images/10.png)
 
-![Screen Shot 2017-03-06 at 10.25.52 PM](images/Screen Shot 2017-03-06 at 10.25.52 PM.png)
+![Screen Shot 2017-03-06 at 10.25.52 PM](images/11.png)
 
-![Screen Shot 2017-03-06 at 10.25.55 PM](images/Screen Shot 2017-03-06 at 10.25.55 PM.png)
+![Screen Shot 2017-03-06 at 10.25.55 PM](images/12.png)
 
-![Screen Shot 2017-03-06 at 10.26.01 PM](images/Screen Shot 2017-03-06 at 10.26.01 PM.png)
+![Screen Shot 2017-03-06 at 10.26.01 PM](images/13.png)
 
-![Screen Shot 2017-03-06 at 10.26.05 PM](images/Screen Shot 2017-03-06 at 10.26.05 PM.png)
+![Screen Shot 2017-03-06 at 10.26.05 PM](images/14.png)
 
-![Screen Shot 2017-03-06 at 10.26.08 PM](images/Screen Shot 2017-03-06 at 10.26.08 PM.png)
+![Screen Shot 2017-03-06 at 10.26.08 PM](images/15.png)
 
-![Screen Shot 2017-03-06 at 10.26.11 PM](images/Screen Shot 2017-03-06 at 10.26.11 PM.png)
+![Screen Shot 2017-03-06 at 10.26.11 PM](images/16.png)
 
 ![Screen Shot 2017-03-06 at 10.24.48 PM](images/Screen Shot 2017-03-06 at 10.24.48 PM.png)
 ### Dependency
 
 - Opencv
+<<<<<<< HEAD
+- Keras(theano-backend  " tf data order")
+- Numpy
+
+### Anthor
+
+- Jack Yu
+
+=======
 - Keras-theano
 - Numpy
+>>>>>>> fff2eddf76f8fae86dc6cc264fbf345c7bd20eff
